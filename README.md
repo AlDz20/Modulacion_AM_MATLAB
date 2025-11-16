@@ -10,19 +10,7 @@ Simular una señal modulada en amplitud, introducir perturbaciones como ruido, d
 ## 🧪 Contenido
 
 - `modulacion_AM.m`: Script principal que genera la señal de entrada, realiza la modulación AM, introduce ruido y simula distorsión y atenuación.
-- Gráficas exportadas desde MATLAB (opcional).
-- Documento Word con análisis y explicaciones (opcional).
-
-## ⚙️ Requisitos
-
-- MATLAB R2020 o superior
-- Conocimientos básicos de procesamiento de señales
-
-## 🚀 Ejecución
-
-1. Abre `modulacion_AM.m` en MATLAB.
-2. Ejecuta el script paso a paso o completo.
-3. Observa las gráficas generadas en cada sección.
+- Gráficas exportadas desde MATLAB.
 
 ## 📊 Resultados esperados
 
